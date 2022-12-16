@@ -14,7 +14,7 @@ zoom/pan interactions
 ![Screenshot (10)](https://user-images.githubusercontent.com/22893491/208166087-5938b577-825d-4f03-93ca-0b22f515ebf4.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/22893491/208166096-0cbc51ba-5385-47d1-a334-f611f10a10cf.png)
 
-All rights reserved
 © Giannis Kotsias | 2022
+All rights reserved
 
 
